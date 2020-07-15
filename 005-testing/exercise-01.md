@@ -6,12 +6,12 @@
 * [Mock-объекты и stub-объекты](https://phpunit.readthedocs.io/ru/latest/test-doubles.html)
 * [Анализ покрытия кода тестами](https://phpunit.readthedocs.io/ru/latest/code-coverage-analysis.html)
 
-По каким-то еще вопросам также можно использовать [сайт с основной документацией](https://phpunit.readthedocs.io/ru/latest/index.html)
+По некоторым вопросам также можно использовать [сайт с основной документацией](https://phpunit.readthedocs.io/ru/latest/index.html)
 
 Паттерны проектирования:
 * [Каталог наиболее популярных паттернов](https://refactoring.guru/ru/design-patterns/catalog)
 
-Для начала изучения советуются следующие паттерны:
+Для начала изучения советуем следующие паттерны:
 * [Стратегия (Strategy)](https://refactoring.guru/ru/design-patterns/strategy)
 * [Наблюдатель (Observer)](https://refactoring.guru/ru/design-patterns/observer)
 * [Наблюдатель в PHP](https://designpatternsphp.readthedocs.io/ru/latest/Behavioral/Observer/README.html)
