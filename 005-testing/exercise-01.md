@@ -19,6 +19,6 @@
 * [Одиночка (Singleton)](https://refactoring.guru/ru/design-patterns/singleton).
 
 Про SOLID:
-* [Принципы SOLID](https://medium.com/webbdev/solid-4ffc018077da).
+* [принципы SOLID](https://medium.com/webbdev/solid-4ffc018077da).
 
 В задании не надо ничего отправлять на проверку, но ознакомление с этой документацией поможет в дальнейшей работе с php.
