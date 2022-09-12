@@ -4,13 +4,13 @@
 мы изучили на лекции.
 
 Все статьи из официальной документации PHP:
-* [Трейты (примеси)](https://www.php.net/manual/ru/language.oop5.traits.php),
-* [Магические методы](https://www.php.net/manual/ru/language.oop5.magic.php),
-* [Перегрузка методов и свойств](https://www.php.net/manual/ru/language.oop5.overloading.php),
-* [Позднее статическое связывание](https://www.php.net/manual/ru/language.oop5.late-static-bindings.php),
-* [Сериализация объектов](https://www.php.net/manual/ru/language.oop5.serialization.php),
-* [Ковариантность и Контравариантность](https://www.php.net/manual/ru/language.oop5.variance.php),
-* [Стандартные интерфейсы](https://www.php.net/manual/ru/spl.interfaces.php).
+* [трейты (примеси)](https://www.php.net/manual/ru/language.oop5.traits.php),
+* [магические методы](https://www.php.net/manual/ru/language.oop5.magic.php),
+* [перегрузка методов и свойств](https://www.php.net/manual/ru/language.oop5.overloading.php),
+* [позднее статическое связывание](https://www.php.net/manual/ru/language.oop5.late-static-bindings.php),
+* [сериализация объектов](https://www.php.net/manual/ru/language.oop5.serialization.php),
+* [ковариантность и Контравариантность](https://www.php.net/manual/ru/language.oop5.variance.php),
+* [стандартные интерфейсы](https://www.php.net/manual/ru/spl.interfaces.php).
 
 Приятная и полезная статья про итераторы с примерами: [Итерирование объектов в PHP](https://true-coder.ru/php/iterirovanie-obektov-v-php-vstroennye-klassy-iteratory-obekt-kak-massiv.html).
 
