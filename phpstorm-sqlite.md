@@ -1,7 +1,7 @@
 # Работа с SQLite в PhpStorm
 
 ### Шаг 1 
-Для начала находим справа на панели Database и нажимаем на неё. Под + надо выбрать Data Source -> SQLite/
+Для начала находим справа на панели Database и нажимаем на неё. Под + надо выбрать Data Source -> SQLite.
 
 ![](pic/sqlite1.PNG)
 
