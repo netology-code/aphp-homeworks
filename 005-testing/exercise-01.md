@@ -9,14 +9,13 @@
 По некоторым вопросам также можно использовать [сайт с основной документацией](https://phpunit.readthedocs.io/ru/latest/index.html).
 
 Паттерны проектирования:
-* [Каталог наиболее популярных паттернов](https://refactoring.guru/ru/design-patterns/catalog).
+* [Каталог наиболее популярных паттернов] (https://designpatternsphp.readthedocs.io/ru/latest/README.html).
 
 Для начала изучения советуем следующие паттерны:
-* [Стратегия (Strategy)](https://refactoring.guru/ru/design-patterns/strategy),
-* [Наблюдатель (Observer)](https://refactoring.guru/ru/design-patterns/observer),
-* [Наблюдатель в PHP](https://designpatternsphp.readthedocs.io/ru/latest/Behavioral/Observer/README.html),
-* [Фасад (Facade)](https://refactoring.guru/ru/design-patterns/facade),
-* [Одиночка (Singleton)](https://refactoring.guru/ru/design-patterns/singleton).
+* [Стратегия (Strategy)] (https://designpatternsphp.readthedocs.io/ru/latest/Behavioral/Strategy/README.html),
+* [Наблюдатель (Observer)] (https://designpatternsphp.readthedocs.io/ru/latest/Behavioral/Observer/README.html),
+* [Фасад (Facade)] (https://designpatternsphp.readthedocs.io/ru/latest/Structural/Facade/README.html),
+* [Одиночка (Singleton)] (https://designpatternsphp.readthedocs.io/ru/latest/Creational/Singleton/README.html).
 
 Про SOLID:
 * [принципы SOLID](https://medium.com/webbdev/solid-4ffc018077da).
