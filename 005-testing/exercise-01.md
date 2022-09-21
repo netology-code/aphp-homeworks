@@ -20,5 +20,6 @@
 
 Про SOLID:
 * [принципы SOLID](https://medium.com/webbdev/solid-4ffc018077da).
+* [принципы SOLID в картинках - легче понять и запомнить] (https://habr.com/ru/company/productivity_inside/blog/505430/).
 
 В задании не надо ничего отправлять на проверку, но ознакомление с этой документацией поможет в дальнейшей работе с php.
