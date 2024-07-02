@@ -12,6 +12,6 @@
 * [ковариантность и Контравариантность](https://www.php.net/manual/ru/language.oop5.variance.php),
 * [стандартные интерфейсы](https://www.php.net/manual/ru/spl.interfaces.php).
 
-Приятная и полезная статья про итераторы с примерами: [Итерирование объектов в PHP](https://true-coder.ru/php/iterirovanie-obektov-v-php-vstroennye-klassy-iteratory-obekt-kak-massiv.html).
+Приятная и полезная статья про итераторы с примерами: [Итерирование объектов в PHP](https://habr.com/ru/articles/324934/).
 
 В задании не надо ничего отправлять на проверку, но ознакомление с этой документацией поможет в дальнейшей работе с PHP.
