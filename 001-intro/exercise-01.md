@@ -6,7 +6,7 @@
 Переводы:
 * [PSR-1 Базовый стандарт по оформлению кода](https://svyatoslav.biz/misc/psr_translation/#_PSR-1),
 * [PSR-2 Рекомендации по оформлению кода](https://svyatoslav.biz/misc/psr_translation/#_PSR-2),
-* [PSR-12 Обновлённые рекомендации по оформлению кода (принято считать актуальным и корректным)](https://redwerk.jobs/blog/psr-12-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4-%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%B0-%D0%BE%D1%84%D0%BE/),
+* [PSR-12 Обновлённые рекомендации по оформлению кода (принято считать актуальным и корректным)](https://php-psr.ru/accepted/PSR-12-extended-coding-style-guide/),
 
 * [PSR-0 Стандарт автозагрузки](https://svyatoslav.biz/misc/psr_translation/#_PSR-0),
 * [PSR-4 Улучшенная автозагрузка](https://svyatoslav.biz/misc/psr_translation/#_PSR-4). 
